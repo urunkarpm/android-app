@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java:*)",
+      "Bash(gradle:*)",
+      "Bash(ls:*)",
+      "Bash(curl:*)",
+      "Bash(source:*)",
+      "Bash(mkdir:*)",
+      "Bash(export:*)",
+      "Bash(./gradlew assembleDebug:*)",
+      "Bash(adb devices:*)",
+      "Bash(/home/prasenjeet-urunkar/Android/Sdk/platform-tools/adb devices:*)",
+      "Bash(/home/prasenjeet-urunkar/Android/Sdk/emulator/emulator:*)",
+      "Bash(/home/prasenjeet-urunkar/Android/Sdk/platform-tools/adb install:*)",
+      "Bash(/home/prasenjeet-urunkar/Android/Sdk/platform-tools/adb shell:*)",
+      "Bash(/home/prasenjeet-urunkar/Android/Sdk/platform-tools/adb logcat:*)",
+      "Bash(/home/prasenjeet-urunkar/Android/Sdk/platform-tools/adb pull:*)",
+      "Bash(/home/prasenjeet-urunkar/Android/Sdk/platform-tools/adb emu:*)",
+      "Bash(git init:*)",
+      "Bash(gh auth:*)",
+      "Bash(git add:*)",
+      "Bash(git reset:*)",
+      "Bash(git rm:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)"
+    ]
+  }
+}
