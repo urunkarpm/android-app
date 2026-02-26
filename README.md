@@ -1,6 +1,7 @@
 # FunCalc - Kids Calculator
 
-A child-friendly calculator app for Android with colorful UI, fun facts, achievement badges, and themed skins.
+A child-friendly calculator app for Android with colorful UI, fun facts, achievement badges, and themed skins. 
+It was made possible with **Claude Code** and **Ollama**
 
 ## Features
 
