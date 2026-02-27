@@ -116,6 +116,7 @@ The app features a colorful, child-friendly interface with:
 - Rainbow color scheme
 - Fun fact dialogs after calculations
 - Settings bottom sheet for theme selection
+- ![Layout](https://github.com/user-attachments/assets/a4d73e0d-f9c3-494a-b8b2-c8a771e5faa5) ![Settings](https://github.com/user-attachments/assets/95161194-1c6f-4248-9180-3e7b69bed8af) ![Fact](https://github.com/user-attachments/assets/107e0b60-c696-4619-9d2f-e200c8542a7c)
 
 ## License
 
